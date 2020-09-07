@@ -76,7 +76,8 @@ editor = {Nicoletta Calzolari (Conference chair) and Khalid Choukri and Christop
 publisher = {European Language Resources Association (ELRA)},
 isbn = {979-10-95546-00-9},
 language = {english}
-}```
+}
+```
 
 For any queries / suggestions / offer for collaboration, you may contact ```ritesh78_llh@jnu.ac.in```
 
