@@ -1,5 +1,7 @@
 # Detection of Aggressive Behavior on Social Media
-This is the repository of the aggression project carried out as part of the The Aggression Project at the Microsoft Research India Summer Workshop on Artificial Social Intelligence in June 2017. The repository contains all codes and datasets generated during the school.
+This is the repository of the aggression project carried out as part of the The Aggression Project at the [Microsoft Research India Summer Workshop on Artificial Social Intelligence](https://www.microsoft.com/en-us/research/event/microsoft-research-india-summer-school-artificial-social-intelligence/#!selected-projects) in June 2017. You can listen to the [final presentation](https://channel9.msdn.com/Shows/Microsoft-Research/Detection-of-Aggressive-Behaviour-on-Social-Media) about the project [here](https://channel9.msdn.com/Shows/Microsoft-Research/Detection-of-Aggressive-Behaviour-on-Social-Media).
+
+This repository contains all codes and datasets generated during the school.
 
 The code helps detect types of aggression in Hindi, English and Hindi-English code-mixed data.
 The analysis is done at 4 levels :
