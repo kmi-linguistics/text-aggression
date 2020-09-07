@@ -1,0 +1,2002 @@
+(lp0
+V10 000
+p1
+aV10 lavel
+p2
+aV15000 50000
+p3
+aV30 pm
+p4
+aV46 men
+p5
+aV50000 kamana
+p6
+aVaaj tak
+p7
+aVaap is
+p8
+aVaap ka
+p9
+aVaap ke
+p10
+aVaap ko
+p11
+aVaap log
+p12
+aVaap party
+p13
+aVab tak
+p14
+aVab ye
+p15
+aVaba apase
+p16
+aVaba app
+p17
+aVaba taka
+p18
+aVabhi taka
+p19
+aVabout upcoming
+p20
+aVaccording to
+p21
+aVactivate karke
+p22
+aVadami parti
+p23
+aVafreen has
+p24
+aVagainst the
+p25
+aVagara apa
+p26
+aVage jarurata
+p27
+aVagent of
+p28
+aVaise hi
+p29
+aVaiye digital
+p30
+aVaja bhi
+p31
+aVaja taka
+p32
+aVall the
+p33
+aVama adami
+p34
+aVamit shah
+p35
+aVan appeal
+p36
+aVan islamic
+p37
+aVand appeal
+p38
+aVand bjp
+p39
+aVand foremost
+p40
+aVand he
+p41
+aVand in
+p42
+aVand investigation
+p43
+aVand other
+p44
+aVand present
+p45
+aVand presented
+p46
+aVand the
+p47
+aVand then
+p48
+aVand they
+p49
+aVand we
+p50
+aVand you
+p51
+aVandroid mobaila
+p52
+aVandroid mobile
+p53
+aVanna hazare
+p54
+aVanna is
+p55
+aVanna ji
+p56
+aVanti samudaya
+p57
+aVany other
+p58
+aVapa apane
+p59
+aVapa isa
+p60
+aVapa loga
+p61
+aVapaki id
+p62
+aVapaki tima
+p63
+aVapako eka
+p64
+aVapako hara
+p65
+aVapako paisa
+p66
+aVapane android
+p67
+aVapane mobaila
+p68
+aVapane pha
+p69
+aVapani ditelsa
+p70
+aVapani id
+p71
+aVapna id
+p72
+aVapne aap
+p73
+aVapni maa
+p74
+aVapology from
+p75
+aVapp install
+p76
+aVapp ko
+p77
+aVapp mem
+p78
+aVapp para
+p79
+aVappeal can
+p80
+aVappeal fatwa
+p81
+aVappeal signed
+p82
+aVapps ko
+p83
+aVare bhai
+p84
+aVare not
+p85
+aVare out
+p86
+aVare the
+p87
+aVare you
+p88
+aVarticle india
+p89
+aVarvind kejriwal
+p90
+aVas fatwa
+p91
+aVas the
+p92
+aVas they
+p93
+aVas well
+p94
+aVat all
+p95
+aVat least
+p96
+aVat the
+p97
+aVaur apna
+p98
+aVaur bjp
+p99
+aVaura apa
+p100
+aVaura apaki
+p101
+aVaura apani
+p102
+aVaura na
+p103
+aVaura sign
+p104
+aVaura usa
+p105
+aVaura ye
+p106
+aVbaat hai
+p107
+aVbana lo
+p108
+aVbare me
+p109
+aVbare mem
+p110
+aVbasa ye
+p111
+aVbe called
+p112
+aVbe discussed
+p113
+aVbe in
+p114
+aVbe the
+p115
+aVbecause of
+p116
+aVbeen prepared
+p117
+aVbeing circulated
+p118
+aVbelieve in
+p119
+aVbetween fatwa
+p120
+aVbhajapa ke
+p121
+aVbhara do
+p122
+aVbharat mata
+p123
+aVbharata ka
+p124
+aVbharata ke
+p125
+aVbharata mem
+p126
+aVbhi hai
+p127
+aVbhi ho
+p128
+aVbhi kisi
+p129
+aVbhi nahi
+p130
+aVbhi nahim
+p131
+aVbhi to
+p132
+aVbhi ye
+p133
+aVbihara mem
+p134
+aVbinding legal
+p135
+aVbjp agent
+p136
+aVbjp and
+p137
+aVbjp in
+p138
+aVbjp is
+p139
+aVbjp ka
+p140
+aVbjp ke
+p141
+aVbjp ki
+p142
+aVbjp ko
+p143
+aVbjp ne
+p144
+aVbjp to
+p145
+aVbjp wale
+p146
+aVblack money
+p147
+aVbusiness se
+p148
+aVbut first
+p149
+aVby 46
+p150
+aVby bjp
+p151
+aVby qualified
+p152
+aVby someone
+p153
+aVby the
+p154
+aVcahate hai
+p155
+aVcahate haim
+p156
+aVcalled legal
+p157
+aVcan be
+p158
+aVcan not
+p159
+aVcan you
+p160
+aVchallenge aur
+p161
+aVchamp cash
+p162
+aVchampcash app
+p163
+aVchampcash likho
+p164
+aVcho\u095co basa
+p165
+aVcirculated and
+p166
+aVclick karake
+p167
+aVclick karo
+p168
+aVcom article
+p169
+aVcom news
+p170
+aVcom watch
+p171
+aVcome to
+p172
+aVcomplete challenge
+p173
+aVcopy of
+p174
+aVcunava mem
+p175
+aVdala do
+p176
+aVde raha
+p177
+aVde rahe
+p178
+aVdear indian
+p179
+aVdekho ki
+p180
+aVdelhi me
+p181
+aVdena chahiye
+p182
+aVdesh ka
+p183
+aVdesh ke
+p184
+aVdesh ki
+p185
+aVdesh ko
+p186
+aVdesh me
+p187
+aVdeti hai
+p188
+aVdeza ka
+p189
+aVdeza ke
+p190
+aVdeza ki
+p191
+aVdeza ko
+p192
+aVdeza mem
+p193
+aVdharma ke
+p194
+aVdi gayi
+p195
+aVdi hai
+p196
+aVdid not
+p197
+aVdifference between
+p198
+aVdigital india
+p199
+aVdilli ke
+p200
+aVdilli mem
+p201
+aVdimensions but
+p202
+aVdiscussed on
+p203
+aVdistorted manner
+p204
+aVditelsa bhara
+p205
+aVdiya hai
+p206
+aVdiya tha
+p207
+aVdo aura
+p208
+aVdo isa
+p209
+aVdo not
+p210
+aVdo refer
+p211
+aVdo you
+p212
+aVdoes not
+p213
+aVdon even
+p214
+aVdon want
+p215
+aVdue to
+p216
+aVduniya ka
+p217
+aVdusare ko
+p218
+aVe0 a4
+p219
+aVek baar
+p220
+aVek baat
+p221
+aVek hi
+p222
+aVeka bara
+p223
+aVeka bata
+p224
+aVeka dina
+p225
+aVeka hi
+p226
+aVeven know
+p227
+aVevents and
+p228
+aVexpect apology
+p229
+aVexpress feel
+p230
+aVfacebook com
+p231
+aVfatwa and
+p232
+aVfatwa is
+p233
+aVfatwa issued
+p234
+aVfatwa we
+p235
+aVfeel sorry
+p236
+aVfirst and
+p237
+aVfor all
+p238
+aVfor bjp
+p239
+aVfor such
+p240
+aVfor the
+p241
+aVfor this
+p242
+aVfor you
+p243
+aVforemost an
+p244
+aVfounder president
+p245
+aVfree free
+p246
+aVfrom the
+p247
+aVfrom your
+p248
+aVgae haim
+p249
+aVgai hai
+p250
+aVgaya hai
+p251
+aVgaya ki
+p252
+aVgaya tha
+p253
+aVgayi hai
+p254
+aVghara baithe
+p255
+aVgo to
+p256
+aVgoing to
+p257
+aVgood for
+p258
+aVgood job
+p259
+aVgood news
+p260
+aVgrounds and
+p261
+aVguidelines whereas
+p262
+aVha ha
+p263
+aVhahaha hahaha
+p264
+aVhai ab
+p265
+aVhai aba
+p266
+aVhai agara
+p267
+aVhai apa
+p268
+aVhai aur
+p269
+aVhai aura
+p270
+aVhai bhai
+p271
+aVhai bjp
+p272
+aVhai desh
+p273
+aVhai eka
+p274
+aVhai hama
+p275
+aVhai isa
+p276
+aVhai jo
+p277
+aVhai ki
+p278
+aVhai koi
+p279
+aVhai kya
+p280
+aVhai lekina
+p281
+aVhai modi
+p282
+aVhai na
+p283
+aVhai or
+p284
+aVhai para
+p285
+aVhai saba
+p286
+aVhai to
+p287
+aVhai tu
+p288
+aVhai vo
+p289
+aVhai wo
+p290
+aVhai ya
+p291
+aVhai ye
+p292
+aVhaim aura
+p293
+aVhaim ki
+p294
+aVhaim to
+p295
+aVhaim vo
+p296
+aVhain aur
+p297
+aVhappy birthday
+p298
+aVhappy in
+p299
+aVhar har
+p300
+aVhar modi
+p301
+aVhara mahine
+p302
+aVhard copy
+p303
+aVhas been
+p304
+aVhas no
+p305
+aVhas to
+p306
+aVhave been
+p307
+aVhave not
+p308
+aVhave to
+p309
+aVhazare is
+p310
+aVhe has
+p311
+aVhe is
+p312
+aVhe said
+p313
+aVhe should
+p314
+aVhe to
+p315
+aVhe was
+p316
+aVhe will
+p317
+aVheadlines the
+p318
+aVhi apako
+p319
+aVhi hai
+p320
+aVhi nahi
+p321
+aVhi nahim
+p322
+aVhinda jaya
+p323
+aVhindu muslim
+p324
+aVho aura
+p325
+aVho gae
+p326
+aVho gai
+p327
+aVho gaya
+p328
+aVho gaye
+p329
+aVho gayi
+p330
+aVho jaegi
+p331
+aVho jane
+p332
+aVho jate
+p333
+aVho jayega
+p334
+aVho jayegi
+p335
+aVho raha
+p336
+aVho rahe
+p337
+aVho rahi
+p338
+aVho sakata
+p339
+aVho to
+p340
+aVho ya
+p341
+aVhoga to
+p342
+aVhone ke
+p343
+aVhone ki
+p344
+aVhone para
+p345
+aVhota hai
+p346
+aVhota to
+p347
+aVhote hai
+p348
+aVhote hi
+p349
+aVhoti hai
+p350
+aVhow can
+p351
+aVhow to
+p352
+aVhttp co
+p353
+aVhttp indianexpress
+p354
+aVhttp khabar
+p355
+aVhttp www
+p356
+aVhttps facebook
+p357
+aVhttps www
+p358
+aVhttps youtu
+p359
+aVhu ki
+p360
+aVhua hai
+p361
+aVhua tha
+p362
+aVhui hai
+p363
+aVid activate
+p364
+aVid bana
+p365
+aVid of
+p366
+aVid puchega
+p367
+aVif he
+p368
+aVif you
+p369
+aVin bjp
+p370
+aVin delhi
+p371
+aVin distorted
+p372
+aVin his
+p373
+aVin india
+p374
+aVin many
+p375
+aVin mcd
+p376
+aVin our
+p377
+aVin power
+p378
+aVin religious
+p379
+aVin the
+p380
+aVin their
+p381
+aVin this
+p382
+aVin your
+p383
+aVinasta la
+p384
+aVindia and
+p385
+aVindia is
+p386
+aVindia me
+p387
+aVindia se
+p388
+aVindian army
+p389
+aVindian express
+p390
+aVindianexpress com
+p391
+aVinstall kara
+p392
+aVinstall karem
+p393
+aVinstead of
+p394
+aVinvestigation it
+p395
+aVinvestment join
+p396
+aVis also
+p397
+aVis an
+p398
+aVis being
+p399
+aVis bjp
+p400
+aVis desh
+p401
+aVis doing
+p402
+aVis good
+p403
+aVis he
+p404
+aVis his
+p405
+aVis in
+p406
+aVis it
+p407
+aVis just
+p408
+aVis no
+p409
+aVis non
+p410
+aVis not
+p411
+aVis only
+p412
+aVis the
+p413
+aVis this
+p414
+aVis unable
+p415
+aVis very
+p416
+aVisa deza
+p417
+aVisa whatsapp
+p418
+aVislamic terror
+p419
+aVissued against
+p420
+aVissued only
+p421
+aVit is
+p422
+aVit to
+p423
+aVit was
+p424
+aVit will
+p425
+aVitana hi
+p426
+aViye zero
+p427
+aVja ba
+p428
+aVja raha
+p429
+aVja rahe
+p430
+aVja rahi
+p431
+aVjai hind
+p432
+aVjanata ke
+p433
+aVjanata ko
+p434
+aVjane para
+p435
+aVjanta ko
+p436
+aVjarurata pagegi
+p437
+aVjaruri hai
+p438
+aVjata hai
+p439
+aVjate hai
+p440
+aVjati hai
+p441
+aVjaya caimpakaiza
+p442
+aVjaya hinda
+p443
+aVjayega aura
+p444
+aVji ka
+p445
+aVji ke
+p446
+aVji ki
+p447
+aVji ko
+p448
+aVji ne
+p449
+aVji se
+p450
+aVjob job
+p451
+aVjob karake
+p452
+aVjoin aap
+p453
+aVjoin bjp
+p454
+aVjoin hone
+p455
+aVjournalists are
+p456
+aVjournalists don
+p457
+aVjud jao
+p458
+aVjuda iye
+p459
+aVjurist mufti
+p460
+aVjust hard
+p461
+aVjust to
+p462
+aVka bhi
+p463
+aVka hai
+p464
+aVka hi
+p465
+aVka koi
+p466
+aVka kya
+p467
+aVka mauka
+p468
+aVka naam
+p469
+aVka pahala
+p470
+aVka vada
+p471
+aVkab tak
+p472
+aVkaba taka
+p473
+aVkaha hai
+p474
+aVkaha ki
+p475
+aVkaha se
+p476
+aVkaha tha
+p477
+aVkama karane
+p478
+aVkama sakate
+p479
+aVkamana cahate
+p480
+aVkamgresa ke
+p481
+aVkar diya
+p482
+aVkar ke
+p483
+aVkar raha
+p484
+aVkar rahe
+p485
+aVkara di
+p486
+aVkara diya
+p487
+aVkara ke
+p488
+aVkara lo
+p489
+aVkara raha
+p490
+aVkara rahe
+p491
+aVkara sakate
+p492
+aVkarake apani
+p493
+aVkarake rs
+p494
+aVkarana hai
+p495
+aVkarane ka
+p496
+aVkarane ke
+p497
+aVkarane ki
+p498
+aVkarane ko
+p499
+aVkarane se
+p500
+aVkarane vale
+p501
+aVkarata hai
+p502
+aVkarate hai
+p503
+aVkarate haim
+p504
+aVkarate ho
+p505
+aVkarem aura
+p506
+aVkarem signup
+p507
+aVkarke business
+p508
+aVkaro aura
+p509
+aVkarta hai
+p510
+aVkarte hai
+p511
+aVke baad
+p512
+aVke bada
+p513
+aVke bare
+p514
+aVke bica
+p515
+aVke daurana
+p516
+aVke dvara
+p517
+aVke ghara
+p518
+aVke khilaf
+p519
+aVke khilapha
+p520
+aVke lie
+p521
+aVke liye
+p522
+aVke nama
+p523
+aVke pasa
+p524
+aVke play
+p525
+aVke sath
+p526
+aVke satha
+p527
+aVkejriwal is
+p528
+aVkejriwal ko
+p529
+aVkhabar ndtv
+p530
+aVkhali pepara
+p531
+aVki baat
+p532
+aVki bat
+p533
+aVki bata
+p534
+aVki bhi
+p535
+aVki hai
+p536
+aVki hatya
+p537
+aVki ja
+p538
+aVki jai
+p539
+aVki janata
+p540
+aVki janta
+p541
+aVki jarurata
+p542
+aVki koi
+p543
+aVki kya
+p544
+aVki ma
+p545
+aVki maa
+p546
+aVki mauta
+p547
+aVki modi
+p548
+aVki nahi
+p549
+aVki sarakara
+p550
+aVki tarah
+p551
+aVki taraha
+p552
+aVki thi
+p553
+aVki ye
+p554
+aVki zuruata
+p555
+aVkishorbhai bhatt
+p556
+aVkisi bhi
+p557
+aVkisi ka
+p558
+aVkisi ki
+p559
+aVkisi ko
+p560
+aVkiya gaya
+p561
+aVkiya hai
+p562
+aVkiya tha
+p563
+aVknow the
+p564
+aVko apane
+p565
+aVko bhi
+p566
+aVko eka
+p567
+aVko gali
+p568
+aVko hi
+p569
+aVko join
+p570
+aVko kaha
+p571
+aVko khali
+p572
+aVko koi
+p573
+aVko nahi
+p574
+aVko to
+p575
+aVko vota
+p576
+aVkoi bhi
+p577
+aVkoi nahi
+p578
+aVkrne ki
+p579
+aVkuch bhi
+p580
+aVkuch nahi
+p581
+aVkuch to
+p582
+aVkucha bhi
+p583
+aVkucha nahim
+p584
+aVkumar vishwas
+p585
+aVkya hai
+p586
+aVkya hoga
+p587
+aVkya hua
+p588
+aVkya ye
+p589
+aVlagata hai
+p590
+aVlagta hai
+p591
+aVlavel pratyeka
+p592
+aVleaflet that
+p593
+aVlegal opinion
+p594
+aVlem age
+p595
+aVlie apa
+p596
+aVlike this
+p597
+aVlike you
+p598
+aVlikha hai
+p599
+aVlikha lem
+p600
+aVlikho aura
+p601
+aVliving with
+p602
+aVliya hai
+p603
+aVlo aba
+p604
+aVlogo ki
+p605
+aVlogo ko
+p606
+aVlogom ko
+p607
+aVlogom ne
+p608
+aVlogon ko
+p609
+aVlok pal
+p610
+aVlokpal bill
+p611
+aVmaa ko
+p612
+aVmake some
+p613
+aVmamale mem
+p614
+aVmanner just
+p615
+aVmany dimensions
+p616
+aVmany grounds
+p617
+aVmata ki
+p618
+aVmay be
+p619
+aVme bhi
+p620
+aVme bjp
+p621
+aVme hai
+p622
+aVme hi
+p623
+aVmedia is
+p624
+aVmem bhi
+p625
+aVmem champcash
+p626
+aVmem eka
+p627
+aVmem install
+p628
+aVmem jao
+p629
+aVmem kucha
+p630
+aVmember se
+p631
+aVmen who
+p632
+aVmerit of
+p633
+aVmisinterpret events
+p634
+aVmobaila mem
+p635
+aVmobaila se
+p636
+aVmobile se
+p637
+aVmodi is
+p638
+aVmodi jaega
+p639
+aVmodi ji
+p640
+aVmodi ka
+p641
+aVmodi ke
+p642
+aVmodi ki
+p643
+aVmodi ko
+p644
+aVmodi ne
+p645
+aVmodi sarakara
+p646
+aVmoney free
+p647
+aVmore than
+p648
+aVmost of
+p649
+aVmufti on
+p650
+aVmuslims the
+p651
+aVmust be
+p652
+aVna hi
+p653
+aVna ho
+p654
+aVnahi hai
+p655
+aVnahi ho
+p656
+aVnahi hoga
+p657
+aVnahi hota
+p658
+aVnahi ki
+p659
+aVnahi kiya
+p660
+aVnahi to
+p661
+aVnahid afreen
+p662
+aVnahim hai
+p663
+aVnahim ho
+p664
+aVnahim kiya
+p665
+aVnama para
+p666
+aVname of
+p667
+aVnaremdra modi
+p668
+aVnarendra modi
+p669
+aVndtv com
+p670
+aVne bhi
+p671
+aVne kaha
+p672
+aVneed to
+p673
+aVneeds to
+p674
+aVnews about
+p675
+aVnews channel
+p676
+aVnews india
+p677
+aVnhi hai
+p678
+aVno more
+p679
+aVno one
+p680
+aVno problem
+p681
+aVnon binding
+p682
+aVnot be
+p683
+aVnot happy
+p684
+aVnot to
+p685
+aVnothing but
+p686
+aVnow he
+p687
+aVof all
+p688
+aVof an
+p689
+aVof appeal
+p690
+aVof bjp
+p691
+aVof delhi
+p692
+aVof his
+p693
+aVof india
+p694
+aVof indian
+p695
+aVof our
+p696
+aVof people
+p697
+aVof rss
+p698
+aVof secularism
+p699
+aVof sponsor
+p700
+aVof the
+p701
+aVof their
+p702
+aVof them
+p703
+aVof this
+p704
+aVof those
+p705
+aVof your
+p706
+aVold man
+p707
+aVon his
+p708
+aVon many
+p709
+aVon request
+p710
+aVon the
+p711
+aVon this
+p712
+aVona ke
+p713
+aVone of
+p714
+aVonline work
+p715
+aVonly by
+p716
+aVonly for
+p717
+aVonly one
+p718
+aVopinion fatwa
+p719
+aVopinion issued
+p720
+aVor any
+p721
+aVout of
+p722
+aVout there
+p723
+aVpagegi complete
+p724
+aVpahale apane
+p725
+aVpahali bara
+p726
+aVpaisa aega
+p727
+aVpara bhi
+p728
+aVpara click
+p729
+aVpara likha
+p730
+aVparivara ko
+p731
+aVpart of
+p732
+aVpart time
+p733
+aVparti ke
+p734
+aVparti ko
+p735
+aVparty and
+p736
+aVpata hai
+p737
+aVpata nahi
+p738
+aVpeople are
+p739
+aVpeople of
+p740
+aVpeople who
+p741
+aVpepara para
+p742
+aVpha ona
+p743
+aVphira bhi
+p744
+aVphp story_fbid
+p745
+aVpinkalbhai kishorbhai
+p746
+aVplay store
+p747
+aVpolitical aggressional
+p748
+aVpolitical party
+p749
+aVpractices the
+p750
+aVpratyeka member
+p751
+aVprepared without
+p752
+aVpresent them
+p753
+aVpresented as
+p754
+aVpresident of
+p755
+aVprince sharma
+p756
+aVproper research
+p757
+aVpuchega vaha
+p758
+aVqualified jurist
+p759
+aVraha hai
+p760
+aVraha hu
+p761
+aVraha tha
+p762
+aVrahe hai
+p763
+aVrahe haim
+p764
+aVrahe hain
+p765
+aVrahe ho
+p766
+aVrahe the
+p767
+aVrahi hai
+p768
+aVraviza kumara
+p769
+aVre not
+p770
+aVrefer id
+p771
+aVreligious guidelines
+p772
+aVreligious practices
+p773
+aVrequest by
+p774
+aVresearch and
+p775
+aVrha hai
+p776
+aVrs 15000
+p777
+aVrss agent
+p778
+aVrss bjp
+p779
+aVrss is
+p780
+aVsabase pahale
+p781
+aVsad to
+p782
+aVsahi hai
+p783
+aVsahi kaha
+p784
+aVsaid that
+p785
+aVsakata hai
+p786
+aVsakate hai
+p787
+aVsakate haim
+p788
+aVsakate ho
+p789
+aVsakati hai
+p790
+aVsakta hai
+p791
+aVsala se
+p792
+aVsamudaya vizesa
+p793
+aVsarakara ke
+p794
+aVsarakara ko
+p795
+aVsarakara ne
+p796
+aVsarakara se
+p797
+aVse 10
+p798
+aVse bhi
+p799
+aVse hai
+p800
+aVse hi
+p801
+aVse jud
+p802
+aVse juda
+p803
+aVse jyada
+p804
+aVse kam
+p805
+aVse kama
+p806
+aVse koi
+p807
+aVse lekara
+p808
+aVse nahim
+p809
+aVse pahale
+p810
+aVse to
+p811
+aVsecularism is
+p812
+aVsee that
+p813
+aVsee the
+p814
+aVsena ke
+p815
+aVsensational headlines
+p816
+aVshame on
+p817
+aVshanam haider
+p818
+aVshe is
+p819
+aVshirish kunder
+p820
+aVshould be
+p821
+aVshould have
+p822
+aVside for
+p823
+aVsign up
+p824
+aVsigned by
+p825
+aVsinger nahid
+p826
+aVso called
+p827
+aVso many
+p828
+aVso that
+p829
+aVsome sensational
+p830
+aVsomeone who
+p831
+aVsorry to
+p832
+aVsponser id
+p833
+aVsponsor id
+p834
+aVsponsor puchega
+p835
+aVstore mem
+p836
+aVsuch mistake
+p837
+aVsupreme court
+p838
+aVsyed shanam
+p839
+aVtalking about
+p840
+aVtaraha se
+p841
+aVterror organization
+p842
+aVtha ki
+p843
+aVtha lekina
+p844
+aVthat he
+p845
+aVthat is
+p846
+aVthat the
+p847
+aVthat you
+p848
+aVthat your
+p849
+aVthe best
+p850
+aVthe biggest
+p851
+aVthe bjp
+p852
+aVthe country
+p853
+aVthe difference
+p854
+aVthe first
+p855
+aVthe founder
+p856
+aVthe government
+p857
+aVthe govt
+p858
+aVthe indian
+p859
+aVthe leaflet
+p860
+aVthe merit
+p861
+aVthe most
+p862
+aVthe name
+p863
+aVthe nation
+p864
+aVthe news
+p865
+aVthe only
+p866
+aVthe party
+p867
+aVthe people
+p868
+aVthe right
+p869
+aVthe same
+p870
+aVthe state
+p871
+aVthe video
+p872
+aVthe way
+p873
+aVthe whole
+p874
+aVthe world
+p875
+aVtheir own
+p876
+aVthem in
+p877
+aVthere are
+p878
+aVthere is
+p879
+aVthere to
+p880
+aVthey are
+p881
+aVthey have
+p882
+aVthey re
+p883
+aVthey were
+p884
+aVthey will
+p885
+aVthis country
+p886
+aVthis is
+p887
+aVthis man
+p888
+aVthis video
+p889
+aVthose who
+p890
+aVtill now
+p891
+aVtime job
+p892
+aVtime to
+p893
+aVto aap
+p894
+aVto aiye
+p895
+aVto all
+p896
+aVto be
+p897
+aVto bjp
+p898
+aVto do
+p899
+aVto ek
+p900
+aVto get
+p901
+aVto have
+p902
+aVto join
+p903
+aVto know
+p904
+aVto kya
+p905
+aVto make
+p906
+aVto misinterpret
+p907
+aVto modi
+p908
+aVto nahi
+p909
+aVto phira
+p910
+aVto say
+p911
+aVto see
+p912
+aVto speak
+p913
+aVto take
+p914
+aVto the
+p915
+aVto their
+p916
+aVto tu
+p917
+aVto understand
+p918
+aVto use
+p919
+aVto write
+p920
+aVto ye
+p921
+aVto you
+p922
+aVtry to
+p923
+aVtrying to
+p924
+aVtum jaise
+p925
+aVtum log
+p926
+aVunable to
+p927
+aVunderstand religious
+p928
+aVup me
+p929
+aVup para
+p930
+aVup with
+p931
+aVupcoming singer
+p932
+aVusa app
+p933
+aVvada kiya
+p934
+aVvaha para
+p935
+aVvajaha se
+p936
+aVvery good
+p937
+aVvery sad
+p938
+aVvo bhi
+p939
+aVvo cho\u095co
+p940
+aVvote bank
+p941
+aVvote for
+p942
+aVwalo ko
+p943
+aVwant to
+p944
+aVwas very
+p945
+aVwe are
+p946
+aVwe can
+p947
+aVwe expect
+p948
+aVwe have
+p949
+aVwe need
+p950
+aVwe will
+p951
+aVwell said
+p952
+aVwere muslims
+p953
+aVwest bengal
+p954
+aVwhat about
+p955
+aVwhat he
+p956
+aVwhat is
+p957
+aVwhatsapp no
+p958
+aVwhere is
+p959
+aVwhereas the
+p960
+aVwhich is
+p961
+aVwho are
+p962
+aVwho believe
+p963
+aVwho is
+p964
+aVwhy not
+p965
+aVwhy you
+p966
+aVwill be
+p967
+aVwill come
+p968
+aVwill get
+p969
+aVwill not
+p970
+aVwith champ
+p971
+aVwith champcash
+p972
+aVwith his
+p973
+aVwith the
+p974
+aVwithout proper
+p975
+aVwould be
+p976
+aVwould have
+p977
+aVwrite that
+p978
+aVwww facebook
+p979
+aVwww youtube
+p980
+aVye bhi
+p981
+aVye dekho
+p982
+aVye hai
+p983
+aVye log
+p984
+aVye sab
+p985
+aVye saba
+p986
+aVye to
+p987
+aVyou are
+p988
+aVyou can
+p989
+aVyou don
+p990
+aVyou have
+p991
+aVyou should
+p992
+aVyou think
+p993
+aVyou will
+p994
+aVyour journalists
+p995
+aVyour side
+p996
+aVyoutu be
+p997
+aVyoutube com
+p998
+aVzee news
+p999
+aVzero investment
+p1000
+a.
