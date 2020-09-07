@@ -42,18 +42,18 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Prerequisites
 
-python 2.7
-NLTK Toolkit 3.2.x
-SKlearn 0.18 
++ python 2.7
++ NLTK Toolkit 3.2.x
++ SKlearn 0.18 
 
 
 
 ## Installing
 
 1) Download the model files and put it inside the 'Codes' directory -
-a. [Model File 1](https://drive.google.com/file/d/1Pzve4wHWtBaepUco-oroohEeiW6tha_E/view?usp=sharing)
-b. [Model File 2](https://drive.google.com/file/d/10YHvH59GtQjkKMvhZb4o8u9SNFfzf0Sw/view?usp=sharing)
-c. [Model File 3](https://drive.google.com/file/d/1RJVggvxhI7dI5u_pozyB4OrfI6g2rhD6/view?usp=sharing)
+   a. [Model File 1](https://drive.google.com/file/d/1Pzve4wHWtBaepUco-oroohEeiW6tha_E/view?usp=sharing)
+   b. [Model File 2](https://drive.google.com/file/d/10YHvH59GtQjkKMvhZb4o8u9SNFfzf0Sw/view?usp=sharing)
+   c. [Model File 3](https://drive.google.com/file/d/1RJVggvxhI7dI5u_pozyB4OrfI6g2rhD6/view?usp=sharing)
 
 2) Type command ‘python all_features_test.py’ 					#takes about 4-5 minutes to run
 3) A prompt saying- 'Enter your Sentence' shows up.
