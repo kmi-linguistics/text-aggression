@@ -8,41 +8,27 @@ The analysis is done at 4 levels :
 
 Aggressive--------------Non Aggressive (2 class) ----- END
 
- |
-
- |
-
- |	
+|
 
 Covert/Overt/Non Aggressive (3 class)	
 
-	|
-
-	|
-
-	|
+|
 
 Curse Abuse/Not Curse Abuse (2 class)
 
-		|
+|
 
-		|
-
-		|
 Types of threat- Non threatening/ 
 Physical threat/Sexual threat/ 
 Identity threat  (5 class)
 
-			|
+|
 
-			|
-
-			|
-
-		       END
+END
 
 
 
+## Training and Dataset
 
 Data from Twitter and Facebook was used for training the 4 stage classifier. Tagged Data sets can be found in the 'Dataset' folder. Both the data files consist of 4 columns - id, text, aggression level and aggression sub-type.
 
