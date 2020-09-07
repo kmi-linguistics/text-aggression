@@ -6,26 +6,39 @@ The analysis is done at 4 levels :
 
 
 
-Aggressive--------------Non Aggressive (2 class)
- |				|
- |				|
- |				END
-Covert/Overt/Non Aggressive  
-(3 class)	
+Aggressive--------------Non Aggressive (2 class) ----- END
+
+ |
+
+ |
+
+ |	
+
+Covert/Overt/Non Aggressive (3 class)	
+
 	|
+
 	|
+
 	|
-Curse Abuse/Not Curse Abuse  
-(2 class)
+
+Curse Abuse/Not Curse Abuse (2 class)
+
 		|
+
 		|
+
 		|
 Types of threat- Non threatening/ 
 Physical threat/Sexual threat/ 
 Identity threat  (5 class)
+
 			|
+
 			|
+
 			|
+
 		       END
 
 
@@ -33,20 +46,12 @@ Identity threat  (5 class)
 
 Data from Twitter and Facebook was used for training the 4 stage classifier. Tagged Data sets can be found in the 'Dataset' folder. Both the data files consist of 4 columns - id, text, aggression level and aggression sub-type.
 
-###################################################################################################################################################################################################
-
-###################################################################################################################################################################################################
-
-
 
 
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-###################################################################################################################################################################################################
-
-###################################################################################################################################################################################################
 
 
 ## Prerequisites
@@ -55,9 +60,6 @@ python 2.7
 NLTK Toolkit 3.2.x
 SKlearn 0.18 
 
-###################################################################################################################################################################################################
-
-###################################################################################################################################################################################################
 
 
 ## Installing
@@ -72,16 +74,14 @@ c. [Model File 3](https://drive.google.com/file/d/1RJVggvxhI7dI5u_pozyB4OrfI6g2r
 4) Type your sentence to obtain the 4 level aggression analysis.
 5) Type 'exit' to finish.
 
-###################################################################################################################################################################################################
 
-###################################################################################################################################################################################################
 
 ## Citation
 If you are using the dataset or the code in your research, please cite the following -
 
 ```@InProceedings{KUMAR18.861,
 author = {Ritesh Kumar and Aishwarya N. Reganti and Akshit Bhatia and Tushar Maheshwari},
-title = "{Aggression-annotated Corpus of Hindi-English Code-mixed Data}",
+title = {Aggression-annotated Corpus of Hindi-English Code-mixed Data},
 booktitle = {Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018)},
 year = {2018},
 month = {May 7-12, 2018},
